@@ -21,10 +21,9 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "I'm Swapnil Revankar"
 author = "Swapnil Revankar"
-copyright = "2020-2021"
+#copyright = "2022-2023"
 description = "Call me Swap"
-displayMode = "dark"
-profilePicture = "/ProfilePic.jpg"
+profilePicture = "/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -43,7 +42,6 @@ doNotLoadAnimations = false
 # singleDateFormat = "Mon, Jan 2, 2006"
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
-
 
 [params.simpleAnalytics]
 # enable = true
