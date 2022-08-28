@@ -1,6 +1,9 @@
 <head>
-	{{ template "_internal/google_analytics.html" . }}
     <title> {{.Site.Params.author}}{{ with .Title }} | {{ . }}{{ end }} </title>
+	
+	{{ if not .Site.IsServer }}
+        {{ template "_internal/google_analytics_async.html" . }}
+    {{ end }}
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -92,7 +95,7 @@
             integrity="{{ $secureJS.Data.Integrity }}"
             crossorigin="anonymous"></script>
     {{- end -}}
-
+	
     <!-- Twitter Cards -->
     {{ template "_internal/twitter_cards.html" . }}
 
