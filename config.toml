@@ -19,6 +19,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
+displayMode = "dark"
 title = "I'm Swapnil Revankar"
 author = "Swapnil Revankar"
 #copyright = "2022-2023"
