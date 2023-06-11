@@ -1,15 +1,9 @@
-﻿---
+---
 title: 'Welcome to my Blog!!'
 date: 2022-07-31
 draft: false
-tags: 
+tags:
   - personal
 ---
 
-After spending more than 10 years in the CG and Gaming industry, I finally decided to start my own blog :smile:
-
-My goal honestly is continuous self improvement, making small changes and improvements everyday.
-There is a well known principle "The best way to learn something is to teach it" so that's what I wanna try and do here.
-This website will be my space to pause and reflect, figure out skills that I wanna learn and improve. So I will talk more about industry trends, machine learning, art, games, characters, rigging, math, etc. 
-
-Stay stupid, trust the soup, start before you are ready - (Phrase from the book Do the work - Steven Pressfield)
+After more than a decade of immersing myself in the world of CG and gaming, I have finally made the decision to start my own blog. This space will serve as a platform for my personal growth, allowing me to make incremental changes and improvements every single day. Inspired by the timeless principle that "the best way to learn something is to teach it," I aim to share my insights, observations, and experiences with the wider community. Join me on this exciting journey of exploration as I delve into industry trends, machine learning, art, games, characters, rigging, mathematics, and much more.
