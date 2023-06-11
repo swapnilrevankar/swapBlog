@@ -10,7 +10,7 @@ tags:
   - documentation
 ---
 
-PyCharm, a popular Python IDE, can greatly enhance your scripting experience in MotionBuilder. This tutorial will guide you through the process of configuring PyCharm for MotionBuilder scripting, enabling autocompletion and external documentation features to streamline your development workflow.
+PyCharm, a popular Python IDE, can greatly enhance your scripting experience in MotionBuilder. This tutorial will guide you through the process of configuring PyCharm for MotionBuilder scripting, enabling autocompletion feature to streamline your development workflow.
 
 ## Prerequisites
 - PyCharm IDE
@@ -38,7 +38,7 @@ PyCharm, a popular Python IDE, can greatly enhance your scripting experience in 
 > Please note that ***`<version>`*** in the path ***C:\Program Files\Autodesk\MotionBuilder<version>\bin\x64*** should be replaced with the actual version number of Autodesk MotionBuilder installed on your system for the command to work correctly.
 
 #### Step 2:Configuring PyCharm
-> Let's configure PyCharm to recognize the MotionBuilder Python modules and enable autocompletion and external documentation.
+> Let's configure PyCharm to recognize the MotionBuilder Python modules and enable autocompletion.
 
 > 1. Launch PyCharm and open your MotionBuilder scripting project or create a new one.
 
@@ -64,7 +64,7 @@ PyCharm, a popular Python IDE, can greatly enhance your scripting experience in 
 
 {{< figure src="/pycharm-motionbuilder_03.gif" alt="image" caption="step-7-8-9-10" class="medium" >}}
 
-> 11. Back in the Project Interpreter dialog, select ***Show All...*** from the dropdown. Then, locate the newly added interpreter in the lit and click on the rename icon next to it. Give the interpreter a more meaningful name, such as "Mobu <version>," to easily identify it in the future.
+> 11. Back in the Project Interpreter dialog, select ***Show All...*** from the dropdown. Then, locate the newly added interpreter and click on the rename icon next to it. Give the interpreter a more meaningful name, such as "Mobu <version>," to easily identify it in the future.
 
 > 12. Click "OK" to apply the changes.
 
